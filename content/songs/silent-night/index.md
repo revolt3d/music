@@ -5,7 +5,6 @@ Author: Editor
 Date: 2022-11-26 13:23
 Template: news
 ---
-# %meta.title%
 This is my composition of Silent Night. Included is a MIDI file, a PDF sheet music and the original Lilypond file used to create this composition.
 
 * [Silent Night MIDI](%assets_url%/silent-night-one-verse.mid)
