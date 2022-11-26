@@ -15,6 +15,7 @@ If you find this information useful, that's great, if not it doesn't matter. Thi
 ## Songs
 This is a list of songs I've either made for an original compositions and other "cover" songs.
 
-* [Silent Night Composition](songs/silent-night)
+* [Silent Night](songs/silent-night)
+* [Georgia on my Mind Melody](songs/georgia-on-my-mind)
 
 [RSS Feed](rss.xml)
