@@ -12,6 +12,9 @@ It's a bunch of random bits of information about music that I've acquired over t
 
 If you find this information useful, that's great, if not it doesn't matter. This magazine is largely made for one reader - myself. If I don't document this stuff, I'll forget it.
 
+## Songs
+This is a list of songs I've either made for an original compositions and other "cover" songs.
+
 * [Silent Night Composition](songs/silent-night)
 
 [RSS Feed](rss.xml)
