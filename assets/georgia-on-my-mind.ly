@@ -1,8 +1,8 @@
 \version "2.20.0"
 
 \header {
-	tagline = "Georgia on my Mind"
-	composer = "Ray Charles"
+	title = "Georgia on my Mind"
+	composer = "Hoagy Carmichael and Stuart Gorrell (1930)"
 }
 
 upper = \relative e' {
