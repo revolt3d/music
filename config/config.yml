@@ -17,7 +17,7 @@ numPerPage: 16
 ##
 # Theme
 #
-theme: chimi                     # The name of your custom theme
+theme: pico-chimi                     # The name of your custom theme
 themes_url: ~                       # Pico will try to guess the URL to the themes dir of your installation;
                                     #     If this fails, override it here. Example: https://example.com/pico/themes/
 theme_config:                       # Additional theme-specific config
@@ -66,4 +66,4 @@ twitter:
 ##
 # Custom
 #
-my_custom_setting: Hello World!     # You can access custom settings in themes using {{ config.my_custom_setting }}
+footer_message: 'This is a website about my music and musical education. I am an underground musician. This is not about making money.'
