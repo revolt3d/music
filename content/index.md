@@ -1,12 +1,11 @@
 ---
-Title: Music Magazine
+Title: Welcome
 Description: 
 Author: Editor
 Date: 2022-11-26 10:31:03
-Template: news-index
+Template: song
 ---
-# %meta.title%
-This is my Music Magazine. 
+This is my zine. 
 
 It's a bunch of random bits of information about music that I've acquired over the last 4 decades of studying music. I'm not a typical musician, so most of this is probably not interesting to anyone but myself. 
 
